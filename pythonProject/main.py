@@ -44,4 +44,5 @@ pd.set_option('display.max_rows', None)
 # Show the plot
 plt.show()
 
-print(colors)
+# Are we certain that movies are getting shorter?
+answer = "yes"
